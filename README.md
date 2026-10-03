@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of laitouaigre/pages.** Not for installation: use [Packagist](https://packagist.org/packages/laitouaigre/pages) or the [upstream repository](https://github.com/laitouaigre/flarum-pages).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/laitouaigre-pages/tree/archive/v0.1.1) · Flarum: `^2.0.0`
+**2** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/laitouaigre-pages/tree/archive/v0.1.1) · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2025-08-16 | `^2.0.0` | [Browse](https://github.com/flarchive/laitouaigre-pages/tree/archive/v0.1.0) |
+| `v0.1.1` | 2025-08-16 | `^2.0.0` | [Browse](https://github.com/flarchive/laitouaigre-pages/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/laitouaigre-pages.json](https://github.com/flarchive/archive-index/blob/main/packages/laitouaigre-pages.json)
 
